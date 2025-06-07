@@ -1,0 +1,186 @@
+kode_matkul,nama_matkul,sifat_mk,semester_matkul,prodi_matkul,sks_matkul,hari,jam_mulai,jam_selesai
+MPK9001-5,Pendidikan Agama,Wajib,1,Informatika,2,Senin,8:50:00 AM,10:40:00 AM
+MK19002,Bahasa Inggris,Wajib,1,Informatika,2,Selasa,7:00:00 AM,8:50:00 AM
+UNU9001,Pendidikan Pancasila,Wajib,1,Informatika,2,Kamis,1:30:00 PM,3:20:00 PM
+KSU1101,Matematika Dasar,Wajib,1,Informatika,3,Rabu,4:20:00 PM,7:05:00 PM
+KSU1104,Algoritma dan Pemrograman I,Wajib,1,Informatika,3,Kamis,7:00:00 AM,9:45:00 AM
+KSU1105,Interaksi Manusia dan Komputer,Wajib,1,Informatika,2,Rabu,8:40:00 AM,10:30:00 AM
+KSU1106,Etika Profesi,Wajib,1,Informatika,2,Selasa,10:40:00 PM,12:30:00 AM
+KSU1205,Pengantar Rekayasa Perangkat Lunak,Wajib,1,Informatika,2,Jumat,9:20:00 AM,11:10:00 AM
+KSF1101,Aljabar Linier,Wajib,1,Informatika,2,Jumat,1:20:00 PM,3:10:00 PM
+MPK9001-5,Pendidikan Agama,Wajib,1,Sistem Informasi,2,Senin,7:00:00 AM,8:50:00 AM
+MK19002,Bahasa Inggris,Wajib,1,Sistem Informasi,2,Rabu,9:40:00 AM,11:30:00 AM
+UNU9001,Pendidikan Pancasila,Wajib,1,Sistem Informasi,2,Selasa,9:40:00 AM,11:30:00 AM
+KSU1101,Matematika Dasar,Wajib,1,Sistem Informasi,3,Jumat,3:10:00 PM,5:55:00 PM
+KSU1104,Algoritma dan Pemrograman 1,Wajib,1,Sistem Informasi,3,Senin,8:40:00 AM,11:25:00 AM
+KSU1105,Interaksi Manusia dan Komputer,Wajib,1,Sistem Informasi,2,Kamis,12:30:00 PM,2:20:00 PM
+KSU1106,Etika Profesi,Wajib,1,Sistem Informasi,2,Senin,3:10:00 PM,5:00:00 PM
+KSI1102,Dasar-dasar Sistem Informasi,Wajib,1,Sistem Informasi,2,Kamis,7:50:00 AM,9:40:00 AM
+KS11206,Prinsip Organisasi dan Manajemen,Wajib,1,Sistem Informasi,2,Rabu,12:30:00 PM,2:20:00 PM
+MPK9001-5,Pendidikan Agama,Wajib,1,Teknologi Informasi,2,Senin,7:00:00 AM,8:50:00 AM
+MK19002,Bahasa Inggris,Wajib,1,Teknologi Informasi,2,Rabu,7:50:00 AM,9:40:00 AM
+MKU9007,Bahasa Indonesia,Wajib,1,Teknologi Informasi,2,Selasa,12:30:00 PM,2:20:00 PM
+UNU9001,Pendidikan Pancasila,Wajib,1,Teknologi Informasi,2,Kamis,11:30:00 AM,1:20:00 PM
+KSU1101,Matematika Dasar,Wajib,1,Teknologi Informasi,3,Senin,10:40:00 AM,1:25:00 PM
+KSU1106,Etika Profesi,Wajib,1,Teknologi Informasi,2,Jumat,7:00:00 AM,8:50:00 AM
+KSU1205,Pengantar Rekayasa Perangkat Lunak,Wajib,1,Teknologi Informasi,2,Rabu,10:40:00 AM,12:30:00 PM
+KSU1207,Matematika Diskrit,Wajib,1,Teknologi Informasi,2,Rabu,2:20:00 PM,4:10:00 PM
+KST1102,Algoritma dan Pemrograman,Wajib,1,Teknologi Informasi,3,Selasa,3:10:00 PM,5:55:00 PM
+MKU9007,Bahasa Indonesia,Wajib,2,Informatika,2,Senin,7:00:00 AM,8:50:00 AM
+KSU1206,Algoritma dan Pemrograman II,Wajib,2,Informatika,3,Rabu,7:50:00 AM,10:35:00 AM
+KSU1207,Matematika Diskrit,Wajib,2,Informatika,2,Selasa,9:40:00 AM,11:30:00 AM
+KSU1208,Pemrograman Berorientasi Obyek,Wajib,2,Informatika,4,Kamis,7:00:00 AM,10:40:00 AM
+KSU1303,Jaringan Komputer,Wajib,2,Informatika,3,Senin,10:40:00 AM,1:25:00 PM
+KSF1202,Sistem Basis Data,Wajib,2,Informatika,3,Selasa,12:30:00 PM,3:15:00 PM
+KSF1203,Teori Graf,Wajib,2,Informatika,2,Jumat,7:50:00 AM,9:40:00 AM
+KSF1204,Sistem Digital,Wajib,2,Informatika,3,Rabu,3:10:00 PM,5:55:00 PM
+MK19007,Manajemen dan Kewirausahaan,Wajib,2,Sistem Informasi,2,Selasa,11:30:00 AM,1:20:00 PM
+MKU9007,Bahasa Indonesia,Wajib,2,Sistem Informasi,2,Rabu,7:50:00 AM,9:40:00 AM
+KSU1205,Pengantar Rekayasa Perangkat Lunak,Wajib,2,Sistem Informasi,2,Rabu,12:30:00 PM,2:20:00 PM
+KSU1206,Algoritma dan Pemrograman II,Wajib,2,Sistem Informasi,3,Senin,2:20:00 PM,5:05:00 PM
+KSU1207,Matematika Diskrit,Wajib,2,Sistem Informasi,2,Kamis,10:40:00 AM,12:30:00 PM
+KSU1302,Arsitektur Komputer,Wajib,2,Sistem Informasi,2,Kamis,3:10:00 PM,5:00:00 PM
+KSU1303,Jaringan Komputer,Wajib,2,Sistem Informasi,3,Jumat,7:50:00 AM,10:35:00 AM
+KS11205,Sistem Basis Data,Wajib,2,Sistem Informasi,3,Selasa,6:00:00 AM,8:45:00 AM
+KSI1301,Teori Graf,Wajib,2,Sistem Informasi,2,Jumat,1:20:00 PM,3:10:00 PM
+MKU9006,Pendidikan Kewarganegaraan,Wajib,2,Teknologi Informasi,2,Selasa,8:50:00 AM,10:40:00 AM
+KSU1105,Interaksi Manusia dan Komputer,Wajib,2,Teknologi Informasi,2,Rabu,7:50:00 AM,9:40:00 AM
+KSU1302,Arsitektur Komputer,Wajib,2,Teknologi Informasi,2,Rabu,10:40:00 AM,12:30:00 PM
+KSU1303,Jaringan Komputer,Wajib,2,Teknologi Informasi,3,Senin,9:40:00 AM,12:25:00 PM
+KSU1401,Sistem Operasi,Wajib,2,Teknologi Informasi,3,Selasa,11:30:00 AM,2:15:00 PM
+KST1202,Sistem Basis Data,Wajib,2,Teknologi Informasi,3,Kamis,2:20:00 PM,5:05:00 PM
+KST1203,Teori Graf,Wajib,2,Teknologi Informasi,2,Jumat,1:20:00 PM,3:10:00 PM
+KST1204,Pemrograman Berorientasi Obyek,Wajib,2,Teknologi Informasi,3,Senin,1:20:00 PM,4:05:00 PM
+KST1410,Statistika,Wajib,2,Teknologi Informasi,2,Selasa,3:10:00 PM,5:00:00 PM
+MK11309,Riset Operasi,Wajib,3,Informatika,2,Selasa,8:50:00 AM,10:40:00 AM
+MK19007,Manajemen dan Kewirausahaan,Wajib,3,Informatika,2,Rabu,9:40:00 AM,11:30:00 AM
+KSU1302,Arsitektur Komputer,Wajib,3,Informatika,2,Kamis,10:30:00 AM,12:20:00 PM
+KSU1601,Metodologi Penelitian,Wajib,3,Informatika,2,Senin,7:00:00 AM,8:50:00 AM
+KSF1304,Kecerdasan Buatan,Wajib,3,Informatika,3,Senin,9:00:00 AM,11:45:00 AM
+KSF1308,Grafika Komputer,Wajib,3,Informatika,3,Selasa,12:30:00 PM,3:15:00 PM
+KSF1309,Functional Programming,Wajib,3,Informatika,3,Kamis,1:20:00 PM,4:05:00 PM
+KSF1408,Manajemen Keamanan Sistem Informasi,Wajib,3,Informatika,2,Senin,12:30:00 PM,2:20:00 PM
+KSF1412,Statistika,Wajib,3,Informatika,2,Rabu,3:10:00 PM,5:00:00 PM
+KSF1503,Struktur Data,Wajib,3,Informatika,2,Jumat,7:50:00 AM,9:40:00 AM
+MKI1309,Riset Operasi,Wajib,3,Sistem Informasi,2,Rabu,10:40:00 AM,12:30:00 PM
+KSU1208,Pemrograman Berorientasi Obyek,Wajib,3,Sistem Informasi,4,Kamis,9:40:00 AM,1:20:00 PM
+KSU1601,Metodologi Penelitian,Wajib,3,Sistem Informasi,2,Kamis,3:10:00 PM,5:00:00 PM
+KS11302,Analisa dan Perancangan Sistem,Wajib,3,Sistem Informasi,3,Selasa,1:20:00 PM,4:05:00 PM
+KS11306,Object Oriented Design,Wajib,3,Sistem Informasi,3,senin,7:50:00 AM,10:35:00 AM
+KSI1307,Pengantar Kecerdasan Buatan,Wajib,3,Sistem Informasi,2,Selasa,8:50:00 AM,10:40:00 AM
+KSI1308,Manajemen Keamanan Sistem Informasi,Wajib,3,Sistem Informasi,3,Jumat,3:10:00 PM,5:55:00 PM
+KSI1309,Analitik dan Visualisasi Data,Wajib,3,Sistem Informasi,3,senin,10:40:00 AM,1:25:00 PM
+MK19007,Manajemen dan Kewirausahaan,Wajib,3,Teknologi Informasi,2,Jumat,2:20:00 PM,4:10:00 PM
+KSU1601,Metodologi Penelitian,Wajib,3,Teknologi Informasi,2,Kamis,11:30:00 AM,1:20:00 PM
+KST1306,Pemrograman SQL,Wajib,3,Teknologi Informasi,3,Senin,12:30:00 PM,3:15:00 PM
+KST1308,Administrasi Sistem,Wajib,3,Teknologi Informasi,2,Selasa,7:00:00 AM,8:50:00 AM
+KST1310,Tata Kelola Teknologi Informasi,Wajib,3,Teknologi Informasi,2,Kamis,7:50:00 AM,9:40:00 AM
+KST1311,Enterprise Architecture,Wajib,3,Teknologi Informasi,2,Rabu,3:10:00 PM,5:00:00 PM
+KST1312,UI/UX Desain,Wajib,3,Teknologi Informasi,3,Rabu,10:40:00 AM,1:25:00 PM
+KST1407,Pemrograman Berbasis Web,Wajib,3,Teknologi Informasi,3,Kamis,2:20:00 PM,5:05:00 PM
+KST1608,Manajemen Risiko,Wajib,3,Teknologi Informasi,2,Selasa,9:40:00 AM,11:30:00 AM
+MKU9006,Pendidikan Kewarganegaraan,Wajib,4,Informatika,2,Selasa,7:00:00 AM,8:50:00 AM
+KSU1401,Sistem Operasi,Wajib,4,Informatika,3,Senin,7:00:00 AM,9:45:00 AM
+KSU1501,Pengembangan PL Untuk Agroindustri Modern,Wajib,4,Informatika,3,Senin,10:30:00 AM,1:15:00 PM
+KSF1401,Analisa dan Desain Perangkat Lunak,Wajib,4,Informatika,3,Rabu,7:50:00 AM,10:35:00 AM
+KSF1409,Pemrograman Berbasis Website,Wajib,4,Informatika,3,Rabu,12:30:00 PM,3:15:00 PM
+KSF1414,Teori Bahasa dan Otomata,Wajib,4,Informatika,2,Rabu,6:00:00 PM,7:50:00 PM
+KSF1415,Kecerdasan Komputasional,Wajib,4,Informatika,3,Kamis,7:00:00 AM,9:45:00 AM
+KSF1416,Parallel Computing,Wajib,4,Informatika,2,Kamis,10:30:00 AM,12:20:00 PM
+KSF1601,Desain dan Analisis Algoritma,Wajib,4,Informatika,3,Selasa,12:30:00 PM,3:15:00 PM
+MKU9006,Pendidikan Kewarganegaraan,Wajib,4,Sistem Informasi,2,Senin,7:50:00 AM,9:40:00 AM
+KSU1501,Pengembangan PL Untuk Agroindustri Modern,Wajib,4,Sistem Informasi,3,Kamis,11:30:00 AM,2:15:00 PM
+KSI1407,Datamining,Wajib,4,Sistem Informasi,3,Selasa,7:50:00 AM,10:35:00 AM
+KSI1411,Sistem Enterprise,Wajib,4,Sistem Informasi,3,Rabu,7:50:00 AM,10:35:00 AM
+KSI1412,Pemrograman Berbasis Web,Wajib,4,Sistem Informasi,4,Senin,11:30:00 AM,3:10:00 PM
+KSI1413,Profesional Issue,Wajib,4,Sistem Informasi,2,Selasa,4:10:00 PM,6:00:00 PM
+KSI1502,Manajemen proyek TI,Wajib,4,Sistem Informasi,3,Selasa,12:30:00 PM,3:15:00 PM
+KSI1509,Tata Kelola Teknologi Informasi,Wajib,4,Sistem Informasi,3,Senin,11:30:00 AM,2:15:00 PM
+KSU1501,Pengembangan PL Untuk Agroindustri Modern,Wajib,4,Teknologi Informasi,3,Selasa,10:40:00 AM,1:25:00 PM
+KST1404,Analisis dan Desain Perangkat Lunak,Wajib,4,Teknologi Informasi,3,Senin,2:40:00 PM,5:25:00 PM
+KST1405,Routing dan Switching,Wajib,4,Teknologi Informasi,3,Senin,10:40:00 AM,1:25:00 PM
+KST1413,Pemrograman Antarmuka Aplikasi,Wajib,4,Teknologi Informasi,3,Rabu,8:50:00 AM,11:35:00 AM
+KST1414,Desain Dan Manajemen Jaringan,Wajib,4,Teknologi Informasi,3,Senin,7:00:00 AM,9:45:00 AM
+KST1509,Keamanan Sistem,Wajib,4,Teknologi Informasi,3,Jumat,7:50:00 AM,10:35:00 AM
+KST1510,Pemrograman Berbasis Mobile,Wajib,4,Teknologi Informasi,3,Jumat,12:30:00 PM,3:15:00 PM
+KSF1506,Implementasi dan Pengujian Perangkat Lunak,Wajib,5,Informatika,3,Kamis,12:30:00 PM,3:15:00 PM
+KSI1408,Rekayasa Proses Bisnis,Wajib,5,Sistem Informasi,3,Rabu,12:30:00 PM,3:15:00 PM
+KST1607,Manajemen Proyek Teknologi Informasi,Wajib,5,Teknologi Informasi,2,Jumat,8:50:00 AM,10:40:00 AM
+KFU1101,Jaringan Syaraf Tiruan,Pilihan,Pilihan,Informatika,3,Kamis,1:20:00 PM,4:05:00 PM
+KFU1102,Information Retrieval,Pilihan,Pilihan,Informatika,3,Rabu,6:00:00 AM,8:45:00 AM
+KFU1103,Data Visualization,Pilihan,Pilihan,Informatika,3,Selasa,2:20:00 PM,5:05:00 PM
+KFU1104,Data Science,Pilihan,Pilihan,Informatika,3,Kamis,7:50:00 AM,10:35:00 AM
+KFU1105,Pengolahan Citra,Pilihan,Pilihan,Informatika,3,Senin,7:00:00 AM,9:45:00 AM
+KFU1107,Sistem Pakar,Pilihan,Pilihan,Informatika,3,Rabu,12:30:00 PM,3:15:00 PM
+KFU1108,Machine Learning,Pilihan,Pilihan,Informatika,3,Selasa,10:40:00 AM,1:25:00 PM
+KFU1202,Algoritma Evolusi,Pilihan,Pilihan,Informatika,3,Rabu,8:50:00 AM,11:35:00 AM
+KFU1203,Pemrosesan Bahasa Alami,Pilihan,Pilihan,Informatika,3,Jumat,7:50:00 AM,10:35:00 AM
+KFU1204,Deep Learning,Pilihan,Pilihan,Informatika,3,Jumat,12:30:00 PM,3:15:00 PM
+KFU1205,Computer Vision,Pilihan,Pilihan,Informatika,3,Senin,11:30:00 AM,2:15:00 PM
+KFU1207,Pengenalan Pola,Pilihan,Pilihan,Informatika,3,Senin,7:50:00 AM,10:35:00 AM
+KFU1208,Speech Processing,Pilihan,Pilihan,Informatika,3,Selasa,8:50:00 AM,11:35:00 AM
+KFU1301,Requirement Engineering,Pilihan,Pilihan,Informatika,3,Rabu,4:10:00 PM,6:55:00 PM
+KFU1302,Software Design,Pilihan,Pilihan,Informatika,3,Selasa,7:00:00 AM,9:45:00 AM
+KFU1303,Software Construction,Pilihan,Pilihan,Informatika,3,Kamis,10:40:00 AM,1:25:00 PM
+KFU1404,Manajemen Resiko,Pilihan,Pilihan,Informatika,3,Senin,8:50:00 AM,11:35:00 AM
+KFU1405,Design Pattern,Pilihan,Pilihan,Informatika,3,Jumat,4:10:00 PM,6:55:00 PM
+KFU1501,Pemrograman Jaringan,Pilihan,Pilihan,Informatika,3,Rabu,10:40:00 AM,1:25:00 PM
+KFU1503,Sistem Terdistribusi,Pilihan,Pilihan,Informatika,3,Selasa,3:10:00 PM,5:55:00 PM
+KFU1507,Komputasi Awan,Pilihan,Pilihan,Informatika,3,Senin,3:10:00 PM,5:55:00 PM
+KFU1508,Forensik Digital,Pilihan,Pilihan,Informatika,3,Kamis,7:50:00 AM,10:35:00 AM
+KFU1510,Jaringan Nirkabel,Pilihan,Pilihan,Informatika,3,Jumat,11:30:00 AM,2:15:00 PM
+KFU1511,Teknologi Antar Jaringan,Pilihan,Pilihan,Informatika,3,Rabu,7:00:00 AM,9:45:00 AM
+KFU1512,Perancangan Keamanan Sistem dan Jaringan,Pilihan,Pilihan,Informatika,3,Selasa,6:00:00 AM,8:45:00 AM
+KFU1401,Arsitektur Perangkat Lunak,Pilihan,Pilihan,Informatika,3,Senin,3:10:00 PM,5:55:00 PM
+KFU1206,Robotika,Pilihan,Pilihan,Informatika,3,Kamis,10:40:00 AM,1:25:00 PM
+KFU1505,Komputasi Grid dan Parallel,Pilihan,Pilihan,Informatika,3,Rabu,12:30:00 PM,3:15:00 PM
+KFU1502,Komputasi Bergerak,Pilihan,Pilihan,Informatika,3,Jumat,7:00:00 AM,9:45:00 AM
+KFU1304,Software Testing,Pilihan,Pilihan,Informatika,3,Selasa,9:40:00 AM,12:25:00 PM
+KFU1307,Software Quality,Pilihan,Pilihan,Informatika,3,Rabu,10:30:00 AM,1:15:00 PM
+KFU1406,Software Validation,Pilihan,Pilihan,Informatika,3,Senin,7:00:00 AM,9:45:00 AM
+KFU1407,Software Verification,Pilihan,Pilihan,Informatika,3,Kamis,3:10:00 PM,5:55:00 PM
+KIU1011,Pengantar Sistem Informasi Geografi,Pilihan,Pilihan,Sistem Informasi,3,Selasa,7:00:00 AM,9:45:00 AM
+KIU1012,Spatial Basis Data,Pilihan,Pilihan,Sistem Informasi,3,Rabu,7:00:00 AM,9:45:00 AM
+KIU1013,Manajemen Agroindustri Modern,Pilihan,Pilihan,Sistem Informasi,3,Senin,11:30:00 AM,2:15:00 PM
+KIU1014,Sistem Penunjang Pengambilan Keputusan,Pilihan,Pilihan,Sistem Informasi,3,Rabu,11:30:00 AM,2:15:00 PM
+KIU1015,Penginderaan Jauh,Pilihan,Pilihan,Sistem Informasi,3,Selasa,2:20:00 PM,5:05:00 PM
+KIU1016,Sistem Device,Pilihan,Pilihan,Sistem Informasi,3,Jumat,12:30:00 PM,3:15:00 PM
+KIU1022,Sistem Informasi Akuntansi,Pilihan,Pilihan,Sistem Informasi,3,Rabu,10:40:00 AM,1:25:00 PM
+KIU1023,E-Business,Pilihan,Pilihan,Sistem Informasi,3,Kamis,7:00:00 AM,9:45:00 AM
+KIU1024,Supply Chain Management,Pilihan,Pilihan,Sistem Informasi,3,Selasa,8:50:00 AM,11:35:00 AM
+KIU1025,Aspek Sosial dan Ekonomi Perangkat Lunak,Pilihan,Pilihan,Sistem Informasi,3,Kamis,11:30:00 AM,2:15:00 PM
+KIU1031,Sistem Terdistribusi,Pilihan,Pilihan,Sistem Informasi,3,Senin,8:50:00 AM,11:35:00 AM
+KIU1041,Pengukuran dan Implementasi Perangkat Lunak,Pilihan,Pilihan,Sistem Informasi,3,Senin,1:20:00 PM,4:05:00 PM
+KIU1042,Audit TI,Pilihan,Pilihan,Sistem Informasi,3,Jumat,9:40:00 AM,12:25:00 PM
+KIU1043,Manajemen Layanan TI,Pilihan,Pilihan,Sistem Informasi,3,Selasa,8:50:00 AM,11:35:00 AM
+KIU1044,E-Government,Pilihan,Pilihan,Sistem Informasi,3,Rabu,9:40:00 AM,12:25:00 PM
+KIU1045,Manajemen Risiko TI,Pilihan,Pilihan,Sistem Informasi,3,Senin,12:30:00 PM,3:15:00 PM
+KIU1046,Requirement Engineering,Pilihan,Pilihan,Sistem Informasi,3,Kamis,9:40:00 AM,12:25:00 PM
+KIU1047,UI/UX Desain,Pilihan,Pilihan,Sistem Informasi,3,Selasa,3:10:00 PM,5:55:00 PM
+KIU1032,Robotika dalam Agroindustri,Pilihan,Pilihan,Sistem Informasi,3,Jumat,7:50:00 AM,10:35:00 AM
+KIU1017,IOT dalam Agroindustri,Pilihan,Pilihan,Teknologi Informasi,2,Senin,8:50:00 AM,10:40:00 AM
+KTU1011,Pemrograman Jaringan,Pilihan,Pilihan,Teknologi Informasi,3,Rabu,7:00:00 AM,9:45:00 AM
+KTU1012,Blockchain,Pilihan,Pilihan,Teknologi Informasi,2,Senin,11:30:00 AM,1:20:00 PM
+KTU1014,Kriptografi,Pilihan,Pilihan,Teknologi Informasi,3,Jumat,7:00:00 AM,9:45:00 AM
+KTU1015,Digital Forensik,Pilihan,Pilihan,Teknologi Informasi,3,Selasa,10:40:00 AM,1:25:00 PM
+KTU1016,Basis Data Terdistribusi,Pilihan,Pilihan,Teknologi Informasi,3,Kamis,2:20:00 PM,5:05:00 PM
+KTU1017,Cloud Computing,Pilihan,Pilihan,Teknologi Informasi,3,Senin,7:00:00 AM,9:45:00 AM
+KTU1021,Pola-pola Perancangan,Pilihan,Pilihan,Teknologi Informasi,3,Senin,7:50:00 AM,10:35:00 AM
+KTU1023,Rekayasa Kebutuhan,Pilihan,Pilihan,Teknologi Informasi,3,Selasa,12:30:00 PM,3:15:00 PM
+KTU1024,Data Warehousing,Pilihan,Pilihan,Teknologi Informasi,3,Jumat,8:50:00 AM,11:35:00 AM
+KTU1025,Embedded System Programming,Pilihan,Pilihan,Teknologi Informasi,3,Kamis,11:30:00 AM,2:15:00 PM
+KTU1026,Manajemen Kualitas Perangkat Lunak,Pilihan,Pilihan,Teknologi Informasi,3,Rabu,11:30:00 AM,2:15:00 PM
+KTU1031,System Devices,Pilihan,Pilihan,Teknologi Informasi,3,Senin,3:10:00 PM,5:55:00 PM
+KTU1041,Strategi Pengembangan Media Pembelajaran,Pilihan,Pilihan,Teknologi Informasi,3,Senin,9:40:00 AM,12:25:00 PM
+KTU1042,Augment Reality,Pilihan,Pilihan,Teknologi Informasi,3,Jumat,2:20:00 PM,5:05:00 PM
+KTU1043,3D Modeling&Animasi,Pilihan,Pilihan,Teknologi Informasi,3,Kamis,10:40:00 AM,1:25:00 PM
+KTU1044,Game Engine Design & Development,Pilihan,Pilihan,Teknologi Informasi,3,Selasa,9:40:00 AM,12:25:00 PM
+KTU1046,Intelligent Game Theory,Pilihan,Pilihan,Teknologi Informasi,3,Jumat,1:20:00 PM,4:05:00 PM
+KTU1047,Kecerdasan Buatan,Pilihan,Pilihan,Teknologi Informasi,3,Selasa,1:20:00 PM,4:05:00 PM
+KTU1048,Machine Learning,Pilihan,Pilihan,Teknologi Informasi,3,Kamis,9:40:00 AM,12:25:00 PM
+KTU1049,Komputasi Awan,Pilihan,Pilihan,Teknologi Informasi,3,Senin,1:20:00 PM,4:05:00 PM
+KTU1050,Pengantar Sistem Informasi Geografi,Pilihan,Pilihan,Teknologi Informasi,3,Rabu,3:10:00 PM,5:55:00 PM
+KTU1051,Spatial Basis Data,Pilihan,Pilihan,Teknologi Informasi,3,Rabu,7:50:00 AM,10:35:00 AM
+KTU1052,Jaringan Nirkabel,Pilihan,Pilihan,Teknologi Informasi,3,Kamis,3:10:00 PM,5:55:00 PM
+KTU1053,Perancangan Keamanan Sistem dan Jaringan,Pilihan,Pilihan,Teknologi Informasi,3,Kamis,8:50:00 AM,11:35:00 AM
+KTU1054,Teknologi Antar Jaringan,Pilihan,Pilihan,Teknologi Informasi,3,Selasa,1:20:00 PM,4:05:00 PM

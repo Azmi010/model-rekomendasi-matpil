@@ -1,0 +1,356 @@
+nama_matkul,kode_matkul,nama_matkul_relevan,kode_matkul_relevan
+Matematika Dasar,KSU1101,Statistik,KST1410
+Algoritma dan Pemrograman I,KSU1104,Algoritma dan Pemrograman II,KSU1206
+Algoritma dan Pemrograman (PSTI),KST1102,Analitik dan Visualisasi Data / Data Science,KSI1309
+Algoritma dan Pemrograman (PSTI),KST1102,Analitik dan Visualisasi Data / Data Science,KFU1104
+Algoritma dan Pemrograman (PSTI),KST1102,Data Mining / Kecerdasan Komputasional,KSI1407
+Algoritma dan Pemrograman (PSTI),KST1102,Data Mining / Kecerdasan Komputasional,KSF1415
+Algoritma dan Pemrograman II,KSU1206,Analitik dan Visualisasi Data / Data Science,KSI1309
+Algoritma dan Pemrograman II,KSU1206,Analitik dan Visualisasi Data / Data Science,KFU1104
+Algoritma dan Pemrograman II,KSU1206,Data Mining / Kecerdasan Komputasional,KSI1407
+Algoritma dan Pemrograman II,KSU1206,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KST1202,Pemrograman SQL,KST1306
+Sistem Basis Data,KS11205,Pemrograman SQL,KST1306
+Sistem Basis Data,KSF1202,Pemrograman SQL,KST1306
+Pemrograman SQL,KST1306,Data Warehouse,KTU1024
+Statistik,KST1410,Data Mining / Kecerdasan Komputasional,KSI1407
+Statistik,KST1410,Data Mining / Kecerdasan Komputasional,KSF1415
+Statistik,KSF1412,Data Mining / Kecerdasan Komputasional,KSI1407
+Statistik,KSF1412,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KST1202,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KST1202,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KS11205,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KS11205,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KSF1202,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KSF1202,Data Mining / Kecerdasan Komputasional,KSF1415
+Aljabar Linier,KSF1101,Information Retrieval,KFU1102
+Data Mining / Kecerdasan Komputasional,KSI1407,Machine Learning,KFU1108
+Data Mining / Kecerdasan Komputasional,KSF1415,Machine Learning,KFU1108
+Data Mining / Kecerdasan Komputasional,KSI1407,NLP,KFU1203
+Data Mining / Kecerdasan Komputasional,KSF1415,NLP,KFU1203
+Information Retrieval,KFU1102,Machine Learning,KFU1108
+Information Retrieval,KFU1102,NLP,KFU1203
+Algoritma dan Pemrograman II,KSU1206,Pengolahan Citra Digital,KFU1105
+Aljabar Linier,KSF1101,Pengenalan Pola/Machine Learning,KFU1207
+Aljabar Linier,KSF1101,Pengenalan Pola/Machine Learning,KFU1108
+Statistik,KST1410,Jaringan Syaraf Tiruan,KFU1101
+Statistik,KSF1412,Jaringan Syaraf Tiruan,KFU1101
+Pengolahan Citra Digital,KFU1105,Computer Vision,KFU1205
+Pengolahan Citra Digital,KFU1105,Deep Learning,KFU1204
+Pengenalan Pola/Machine Learning,KFU1207,Computer Vision,KFU1205
+Pengenalan Pola/Machine Learning,KFU1108,Computer Vision,KFU1205
+Pengenalan Pola/Machine Learning,KFU1207,Deep Learning,KFU1204
+Pengenalan Pola/Machine Learning,KFU1108,Deep Learning,KFU1204
+Jaringan Syaraf Tiruan,KFU1101,Computer Vision,KFU1205
+Jaringan Syaraf Tiruan,KFU1101,Deep Learning,KFU1204
+Statistik,KST1410,Data Mining / Kecerdasan Komputasional,KSI1407
+Statistik,KSF1412,Data Mining / Kecerdasan Komputasional,KSI1407
+Algoritma dan Pemrograman II,KSU1206,Data Mining / Kecerdasan Komputasional,KSI1407
+Statistik,KST1410,Data Mining / Kecerdasan Komputasional,KSF1415
+Statistik,KSF1412,Data Mining / Kecerdasan Komputasional,KSF1415
+Algoritma dan Pemrograman II,KSU1206,Data Mining / Kecerdasan Komputasional,KSF1415
+Aljabar Linier,KSF1101,Information Retrieval,KFU1102
+Data Mining / Kecerdasan Komputasional,KSI1407,Machine Learning,KFU1108
+Data Mining / Kecerdasan Komputasional,KSF1415,Machine Learning,KFU1108
+Information Retrieval,KFU1102,Pemrosesan Bahasa Alami,KFU1203
+Information Retrieval,KFU1102,Deep Learning,KFU1204
+Machine Learning,KFU1108,Pemrosesan Bahasa Alami,KFU1203
+Machine Learning,KFU1108,Deep Learning,KFU1204
+Matematika Dasar,KSU1101,Riset Operasi,MKI1309
+Matematika Dasar,KSU1101,Teori Graf,KST1203
+Matematika Dasar,KSU1101,Teori Graf,KSI1301
+Matematika Dasar,KSU1101,Teori Graf,KSF1203
+Statistik,KST1410,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Statistik,KST1410,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Statistik,KSF1412,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Statistik,KSF1412,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Riset Operasi,MKI1309,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Riset Operasi,MKI1309,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Teori Graf,KST1203,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Teori Graf,KST1203,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Teori Graf,KSI1301,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Teori Graf,KSI1301,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Teori Graf,KSF1203,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Teori Graf,KSF1203,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Algoritma dan Pemrograman II,KSU1206,Jaringan Syaraf Tiruan,KFU1101
+Sistem Basis Data,KST1202,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KS11205,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KSF1202,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KST1202,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KS11205,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KSF1202,Data Mining / Kecerdasan Komputasional,KSF1415
+Aljabar Linier,KSF1101,Pengenalan Pola/Machine Learning,KFU1207
+Aljabar Linier,KSF1101,Deep Learning,KFU1204
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307,Pengenalan Pola/Machine Learning,KFU1207
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304,Pengenalan Pola/Machine Learning,KFU1207
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307,Deep Learning,KFU1204
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304,Deep Learning,KFU1204
+Jaringan Syaraf Tiruan,KFU1101,Pengenalan Pola/Machine Learning,KFU1207
+Jaringan Syaraf Tiruan,KFU1101,Deep Learning,KFU1204
+Data Mining / Kecerdasan Komputasional,KSI1407,Pengenalan Pola/Machine Learning,KFU1207
+Data Mining / Kecerdasan Komputasional,KSF1415,Pengenalan Pola/Machine Learning,KFU1207
+Data Mining / Kecerdasan Komputasional,KSI1407,Deep Learning,KFU1204
+Data Mining / Kecerdasan Komputasional,KSF1415,Deep Learning,KFU1204
+Statistik,KST1410,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Statistik,KSF1412,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Algoritma dan Pemrograman II,KSU1206,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Statistik,KST1410,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Statistik,KSF1412,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Algoritma dan Pemrograman II,KSU1206,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Sistem Basis Data,KST1202,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KS11205,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KSF1202,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KST1202,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KS11205,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KSF1202,Data Mining / Kecerdasan Komputasional,KSF1415
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307,Algoritma Evolusi,KFU1202
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304,Algoritma Evolusi,KFU1202
+Data Mining / Kecerdasan Komputasional,KSI1407,Algoritma Evolusi,KFU1202
+Data Mining / Kecerdasan Komputasional,KSF1415,Algoritma Evolusi,KFU1202
+Statistik,KST1410,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Statistik,KSF1412,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Algoritma dan Pemrograman II,KSU1206,Embedded system programming,KTU1025
+Aljabar Linier,KSF1101,Pengenalan Pola/Machine Learning,KFU1207
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307,Pengenalan Pola/Machine Learning,KFU1207
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304,Pengenalan Pola/Machine Learning,KFU1207
+Embedded system programming,KTU1025,Robotika,KFU1206
+Embedded system programming,KTU1025,Robotika dalam Agroindustri,KIU1032
+Pengenalan Pola/Machine Learning,KFU1207,Robotika,KFU1206
+Pengenalan Pola/Machine Learning,KFU1207,Robotika dalam Agroindustri,KIU1032
+Algoritma dan Pemrograman I,KSU1104,Riset Operasi,MKI1309
+Statistik,KST1410,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Statistik,KSF1412,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Riset Operasi,MKI1309,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Riset Operasi,MKI1309,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Algoritma dan Pemrograman II,KSU1206,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Algoritma dan Pemrograman II,KSU1206,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Aljabar Linier,KSF1101,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307
+Aljabar Linier,KSF1101,Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307,Sistem Pakar,KFU1107
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304,Sistem Pakar,KFU1107
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSI1307,Sistem Penunjang Pengambilan Keputusan,KIU1014
+Pengantar Kecerdasan Buatan / Kecerdasan Buatan,KSF1304,Sistem Penunjang Pengambilan Keputusan,KIU1014
+Algoritma dan Pemrograman I,KSU1104,Pemrograman Berorientasi Objek,KSU1208
+Algoritma dan Pemrograman I,KSU1104,Pemrograman Berorientasi Objek,KST1204
+Pemrograman Berorientasi Objek,KSU1208,Grafika Komputer,KSF1308
+Pemrograman Berorientasi Objek,KST1204,Grafika Komputer,KSF1308
+Pemrograman Berorientasi Objek,KSU1208,Game Engine Design and Development,KTU1044
+Pemrograman Berorientasi Objek,KST1204,Game Engine Design and Development,KTU1044
+Pemrograman Berorientasi Objek,KSU1208,Augmented Reality,KTU1042
+Pemrograman Berorientasi Objek,KST1204,Augmented Reality,KTU1042
+Pemrograman Berorientasi Objek,KSU1208,3D Modeling & Animasi,KTU1043
+Pemrograman Berorientasi Objek,KST1204,3D Modeling & Animasi,KTU1043
+Grafika Komputer,KSF1308,Game Engine Design and Development,KTU1044
+Grafika Komputer,KSF1308,Augmented Reality,KTU1042
+Grafika Komputer,KSF1308,3D Modeling & Animasi,KTU1043
+Pengantar Rekayasa Perangkat Lunak,KSU1205,Game Engine Design and Development,KTU1044
+Pengantar Rekayasa Perangkat Lunak,KSU1205,Augmented Reality,KTU1042
+Pengantar Rekayasa Perangkat Lunak,KSU1205,3D Modeling & Animasi,KTU1043
+Interaksi Manusia dan Komputer,KSU1105,UI/UX Desain,KST1312
+UI/UX Desain,KST1312,Game Engine Design and Development,KTU1044
+UI/UX Desain,KST1312,Augmented Reality,KTU1042
+UI/UX Desain,KST1312,3D Modeling & Animasi,KTU1043
+Algoritma dan Pemrograman II,KSU1206,Pengantar Kecerdasan Buatan/Kecerdasan Buatan,KSI1307
+Algoritma dan Pemrograman II,KSU1206,Pengantar Kecerdasan Buatan/Kecerdasan Buatan,KSF1304
+Statistik,KST1410,Data Mining / Kecerdasan Komputasional,KSI1407
+Statistik,KSF1412,Data Mining / Kecerdasan Komputasional,KSF1415
+Sistem Basis Data,KST1202,Data Mining / Kecerdasan Komputasional,KSI1407
+Sistem Basis Data,KS11205,Data Mining / Kecerdasan Komputasional,KSF1415
+Pengantar Kecerdasan Buatan/Kecerdasan Buatan,KSI1307,Intelligent Game Theory,KTU1046
+Pengantar Kecerdasan Buatan/Kecerdasan Buatan,KSF1304,Intelligent Game Theory,KTU1046
+Data Mining / Kecerdasan Komputasional,KSI1407,Intelligent Game Theory,KTU1046
+Data Mining / Kecerdasan Komputasional,KSF1415,Intelligent Game Theory,KTU1046
+Interaksi Manusia dan Komputer,KSU1105,Pemrograman Berorientasi Obyek,KSU1208
+Interaksi Manusia dan Komputer,KSU1105,Pemrograman Berorientasi Obyek,KST1204
+Algoritma dan Pemrograman I,KSU1104,Pemrograman Berorientasi Obyek,KSU1208
+Algoritma dan Pemrograman I,KSU1104,Pemrograman Berorientasi Obyek,KST1204
+Pemrograman Berorientasi Obyek,KSU1208,Pemrograman Berbasis Website,KSI1412
+Pemrograman Berorientasi Obyek,KST1204,Pemrograman Berbasis Website,KST1407
+Pemrograman Berorientasi Obyek,KSU1208,Pemrograman Berbasis Mobile,KST1510
+Pemrograman Berorientasi Obyek,KST1204,Pemrograman Berbasis Mobile,KST1510
+Pemrograman Berbasis Website,KSI1412,UI/UX Desain,KST1312
+Pemrograman Berbasis Website,KST1407,UI/UX Desain,KST1312
+Pemrograman Berbasis Mobile,KST1510,UI/UX Desain,KST1312
+Interaksi Manusia dan Komputer,KSU1105,UI/UX Desain,KST1312
+Interaksi Manusia dan Komputer,KSU1105,Grafika Komputer,KSF1308
+UI/UX Desain,KST1312,Strategi Pengembangan Media Pembelajaran,KTU1041
+Grafika Komputer,KSF1308,3D Modelling dan Animasi,KTU1043
+Strategi Pengembangan Media Pembelajaran,KTU1041,Augmented Reality,KTU1042
+3D Modelling dan Animasi,KTU1043,Augmented Reality,KTU1042
+Statistik,KST1410,Keamanan Sistem,KST1509
+Statistik,KSF1412,Keamanan Sistem,KST1509
+Algoritma dan Pemrograman II,KSU1206,Keamanan Sistem,KST1509
+Pemrograman Berbasis Obyek,KSU1208,Keamanan Sistem,KST1509
+Pemrograman Berbasis Obyek,KST1204,Keamanan Sistem,KST1509
+Aljabar Linear,KSF1101,Matematika Diskrit,KSU1207
+Aljabar Linear,KSF1101,Keamanan Sistem,KST1509
+Matematika Diskrit,KSU1207,Keamanan Sistem,KST1509
+Keamanan Sistem,KST1509,Kriptografi,KTU1014
+Keamanan Sistem,KST1509,Steganografi,KTU1017
+Arsitektur Komputer,KSU1302,Sistem Operasi,KSU1401
+Arsitektur Komputer,KSU1302,Jaringan Komputer,KSU1303
+Sistem Operasi,KSU1401,Manajemen Keamanan SI,KSI1308
+Sistem Operasi,KSU1401,Manajemen Keamanan SI,KSF1408
+Sistem Operasi,KSU1401,Digital Forensik,KTU1015
+Sistem Operasi,KSU1401,Blockchain,KTU1012
+Jaringan Komputer,KSU1303,Digital Forensik,KTU1015
+Jaringan Komputer,KSU1303,Blockchain,KTU1012
+Manajemen Keamanan SI,KSI1308,Digital Forensik,KTU1015
+Manajemen Keamanan SI,KSF1408,Digital Forensik,KTU1015
+Manajemen Keamanan SI,KSI1308,Blockchain,KTU1012
+Manajemen Keamanan SI,KSF1408,Blockchain,KTU1012
+Keamanan Sistem,KST1509,Perancangan Keamanan Sistem dan Jaringan,KFU1512
+Sistem Operasi,KSU1401,Administrasi Sistem,KST1308
+Jaringan Komputer,KSU1303,Basis Data Terdistribusi,KTU1016
+Jaringan Komputer,KSU1303,Sistem Terdistribusi,KIU1031
+Jaringan Komputer,KSU1303,Sistem Terdistribusi,KFU1503
+Jaringan Komputer,KSU1303,Komputasi Awan,KTU1049
+Jaringan Komputer,KSU1303,Komputasi Awan,KFU1507
+Jaringan Komputer,KSU1303,Komputasi Grid dan Parallel,KFU1505
+Administrasi Sistem,KST1308,Basis Data Terdistribusi,KTU1016
+Administrasi Sistem,KST1308,Sistem Terdistribusi,KIU1031
+Administrasi Sistem,KST1308,Sistem Terdistribusi,KFU1503
+Administrasi Sistem,KST1308,Komputasi Awan,KTU1049
+Administrasi Sistem,KST1308,Komputasi Awan,KFU1507
+Algoritma dan Pemrograman I,KSU1104,Pemrograman Berorientasi Objek,KSU1208
+Pemrograman Berorientasi Objek,KSU1208,Komputasi Awan,KTU1049
+Pemrograman Berorientasi Objek,KST1204,Komputasi Awan,KTU1049
+Pemrograman Berorientasi Objek,KSU1208,Komputasi Awan,KFU1507
+Pemrograman Berorientasi Objek,KST1204,Komputasi Awan,KFU1507
+Pemrograman Berorientasi Objek,KSU1208,Komputasi Grid dan Parallel,KFU1505
+Pemrograman Berorientasi Objek,KST1204,Komputasi Grid dan Parallel,KFU1505
+Jaringan Komputer,KSU1303,Routing dan Switching,KST1405
+Routing dan Switching,KST1405,Desain dan Manajemen Jaringan,KST1414
+Desain dan Manajemen Jaringan,KST1414,Teknologi Antar Jaringan,KTU1054
+Desain dan Manajemen Jaringan,KST1414,Teknologi Antar Jaringan,KFU1511
+Desain dan Manajemen Jaringan,KST1414,Jaringan Nirkabel,KTU1052
+Desain dan Manajemen Jaringan,KST1414,Jaringan Nirkabel,KFU1510
+Desain dan Manajemen Jaringan,KST1414,Komputasi Bergerak,KFU1502
+Teori Graf,KST1203,Desain dan Manajemen Jaringan,KST1414
+Teori Graf,KSI1301,Desain dan Manajemen Jaringan,KST1414
+Teori Graf,KSF1203,Desain dan Manajemen Jaringan,KST1414
+Teori Graf,KST1203,Teknologi Antar Jaringan,KTU1054
+Teori Graf,KSI1301,Teknologi Antar Jaringan,KTU1054
+Teori Graf,KSF1203,Teknologi Antar Jaringan,KTU1054
+Teori Graf,KST1203,Teknologi Antar Jaringan,KFU1511
+Teori Graf,KSI1301,Teknologi Antar Jaringan,KFU1511
+Teori Graf,KSF1203,Teknologi Antar Jaringan,KFU1511
+Pemrograman Berorientasi Objek,KSU1208,Jaringan Nirkabel,KTU1052
+Pemrograman Berorientasi Objek,KST1204,Jaringan Nirkabel,KTU1052
+Pemrograman Berorientasi Objek,KSU1208,Jaringan Nirkabel,KFU1510
+Pemrograman Berorientasi Objek,KST1204,Jaringan Nirkabel,KFU1510
+Pemrograman Berorientasi Objek,KSU1208,Komputasi Bergerak,KFU1502
+Pemrograman Berorientasi Objek,KST1204,Komputasi Bergerak,KFU1502
+Pemrograman Berorientasi Objek,KSU1208,Pemrograman Jaringan,KTU1011
+Pemrograman Berorientasi Objek,KST1204,Pemrograman Jaringan,KTU1011
+Pemrograman Berorientasi Objek,KSU1208,Pemrograman Jaringan,KFU1501
+Pemrograman Berorientasi Objek,KST1204,Pemrograman Jaringan,KFU1501
+Algoritma dan Pemrograman II,KSU1206,System Device,KIU1016
+Arsitektur Komputer,KSU1302,System Device,KIU1016
+Interaksi manusia dan komputer,KSU1105,System Device,KIU1016
+System Device,KIU1016,Embedded System Programming,KTU1025
+Pemrograman berbasis Obyek,KSU1208,Pemrograman berbasis Mobile,KST1510
+Pemrograman berbasis Obyek,KST1204,Pemrograman berbasis Mobile,KST1510
+Pemrograman berbasis Obyek,KSU1208,Pemrograman berbasis Web,KSI1412
+Pemrograman berbasis Obyek,KST1204,Pemrograman berbasis Web,KST1407
+Arsitektur Komputer,KSU1302,System Device,KIU1016
+Interaksi manusia dan komputer,KSU1105,Pemrograman berbasis Mobile,KST1510
+Interaksi manusia dan komputer,KSU1105,Pemrograman berbasis Web,KSI1412
+Jaringan Komputer,KSU1303,IoT dalam Agroindustri,KIU1017
+Sistem basis data,KST1202,Pemrograman antarmuka aplikasi,KST1413
+Sistem basis data,KS11205,Pemrograman antarmuka aplikasi,KST1413
+Sistem basis data,KSF1202,Pemrograman antarmuka aplikasi,KST1413
+Pemrograman berbasis Mobile,KST1510,IoT dalam Agroindustri,KIU1017
+Pemrograman berbasis Web,KSI1412,IoT dalam Agroindustri,KIU1017
+Pemrograman berbasis Web,KST1407,IoT dalam Agroindustri,KIU1017
+Embedded System Programming,KTU1025,IoT dalam Agroindustri,KIU1017
+Pemrograman antarmuka aplikasi,KST1413,IoT dalam Agroindustri,KIU1017
+Dasar-dasar Sistem Informasi,KSI1102,Tata Kelola Teknologi Informasi,KST1310
+Dasar-dasar Sistem Informasi,KSI1102,Tata Kelola Teknologi Informasi,KSI1509
+Dasar-dasar Sistem Informasi,KSI1102,Sistem Enterprise,KSI1411
+Prinsip Organisasi dan Manajemen,KS11206,Tata Kelola Teknologi Informasi,KST1310
+Prinsip Organisasi dan Manajemen,KS11206,Tata Kelola Teknologi Informasi,KSI1509
+Prinsip Organisasi dan Manajemen,KS11206,Sistem Enterprise,KSI1411
+Tata Kelola Teknologi Informasi,KST1310,Rekayasa Proses Bisnis,KSI1408
+Tata Kelola Teknologi Informasi,KSI1509,Rekayasa Proses Bisnis,KSI1408
+Sistem Enterprise,KSI1411,Rekayasa Proses Bisnis,KSI1408
+Rekayasa Proses Bisnis,KSI1408,Enterprise Architecture,KST1311
+Dasar-dasar Sistem Informasi,KSI1102,Sistem Enterprise,KSI1411
+Prinsip Organisasi dan Manajemen,KS11206,Sistem Enterprise,KSI1411
+Sistem Enterprise,KSI1411,Sistem Informasi Akuntansi,KIU1022
+Sistem Enterprise,KSI1411,E-Business,KIU1023
+Sistem Enterprise,KSI1411,Supply Chain Management,KIU1024
+Prinsip Organisasi dan Manajemen,KS11206,Sistem Enterprise,KSI1411
+Dasar-dasar Sistem Informasi,KSI1102,Sistem Enterprise,KSI1411
+Sistem Enterprise,KSI1411,Rekayasa Proses Bisnis,KSI1408
+Sistem Enterprise,KSI1411,Supply Chain Management,KIU1024
+Rekayasa Proses Bisnis,KSI1408,Manajemen Agroindustri Modern,KIU1013
+Supply Chain Management,KIU1024,Manajemen Agroindustri Modern,KIU1013
+Prinsip Organisasi dan Manajemen,KS11206,Tata Kelola Teknologi Informasi,KST1310
+Prinsip Organisasi dan Manajemen,KS11206,Tata Kelola Teknologi Informasi,KSI1509
+Dasar-dasar Sistem Informasi,KSI1102,Tata Kelola Teknologi Informasi,KST1310
+Dasar-dasar Sistem Informasi,KSI1102,Tata Kelola Teknologi Informasi,KSI1509
+Statistika,KST1410,Tata Kelola Teknologi Informasi,KST1310
+Statistika,KSF1412,Tata Kelola Teknologi Informasi,KST1310
+Statistika,KST1410,Tata Kelola Teknologi Informasi,KSI1509
+Statistika,KSF1412,Tata Kelola Teknologi Informasi,KSI1509
+Tata Kelola Teknologi Informasi,KST1310,Manajemen Risiko,KST1608
+Tata Kelola Teknologi Informasi,KSI1509,Manajemen Risiko,KST1608
+Tata Kelola Teknologi Informasi,KST1310,Manajemen Risiko TI,KIU1045
+Tata Kelola Teknologi Informasi,KSI1509,Manajemen Risiko TI,KIU1045
+Prinsip Organisasi dan Manajemen,KS11206,Tata Kelola Teknologi Informasi,KST1310
+Prinsip Organisasi dan Manajemen,KS11206,Tata Kelola Teknologi Informasi,KSI1509
+Dasar-dasar Sistem Informasi,KSI1102,Tata Kelola Teknologi Informasi,KST1310
+Dasar-dasar Sistem Informasi,KSI1102,Tata Kelola Teknologi Informasi,KSI1509
+Statistika,KST1410,Tata Kelola Teknologi Informasi,KST1310
+Statistika,KSF1412,Tata Kelola Teknologi Informasi,KST1310
+Statistika,KST1410,Tata Kelola Teknologi Informasi,KSI1509
+Statistika,KSF1412,Tata Kelola Teknologi Informasi,KSI1509
+Tata Kelola Teknologi Informasi,KST1310,Pengukuran dan Implementasi Perangkat Lunak,KIU1041
+Tata Kelola Teknologi Informasi,KSI1509,Pengukuran dan Implementasi Perangkat Lunak,KIU1041
+Prinsip Organisasi dan Manajemen,KS11206,Pengukuran dan Implementasi Perangkat Lunak,KIU1041
+Dasar-dasar Sistem Informasi,KSI1102,Pengukuran dan Implementasi Perangkat Lunak,KIU1041
+Statistika,KST1410,Pengukuran dan Implementasi Perangkat Lunak,KIU1041
+Statistika,KSF1412,Pengukuran dan Implementasi Perangkat Lunak,KIU1041
+Pengantar Rekayasa Perangkat Lunak,KSU1205,Analisa dan Perancangan Sistem,KS11302
+Analisa dan Perancangan Sistem,KS11302,Objek Oriented Design,KS11306
+Algoritma dan Pemrograman I,KSU1104,Pemrograman Berorientasi Objek,KSU1208
+Interaksi Manusia dan Komputer,KSU1105,Pemrograman Berorientasi Objek,KSU1208
+Sistem Basis data,KST1202,Pemrograman Berorientasi Objek,KSU1208
+Sistem Basis data,KS11205,Pemrograman Berorientasi Objek,KSU1208
+Sistem Basis data,KSF1202,Pemrograman Berorientasi Objek,KSU1208
+Rekayasa Proses Bisnis,KSI1408,Objek Oriented Design,KS11306
+Objek Oriented Design,KS11306,Requirement Engineering / Rekayasa Kebutuhan,KIU1046
+Objek Oriented Design,KS11306,Requirement Engineering / Rekayasa Kebutuhan,KFU1301
+Pemrograman Berorientasi Objek,KSU1208,Requirement Engineering / Rekayasa Kebutuhan,KIU1046
+Pemrograman Berorientasi Objek,KSU1208,Requirement Engineering / Rekayasa Kebutuhan,KFU1301
+Analisa dan Perancangan Sistem,KS11302,Rekayasa Proses Bisnis,KSI1408
+Interaksi Manusia dan Komputer,KSU1105,Arsitektur perangkat lunak,KFU1401
+Sistem Basis data,KST1202,Pemrograman SQL,KST1306
+Sistem Basis data,KS11205,Pemrograman SQL,KST1306
+Sistem Basis data,KSF1202,Pemrograman SQL,KST1306
+Pemrograman SQL,KST1306,Pemrograman Berorientasi Objek,KSU1208
+Objek Oriented Design,KS11306,Arsitektur perangkat lunak,KFU1401
+Pemrograman Berorientasi Objek,KSU1208,Arsitektur perangkat lunak,KFU1401
+Arsitektur perangkat lunak,KFU1401,Design Pattern/Pola-pola Perancangan,KFU1405
+Design Pattern/Pola-pola Perancangan,KFU1405,Software Design,KFU1302
+Interaksi Manusia dan Komputer,KSU1105,Arsitektur perangkat lunak,KFU1401
+Objek Oriented Design,KS11306,Arsitektur perangkat lunak,KFU1401
+Pemrograman Berorientasi Objek,KSU1208,Arsitektur perangkat lunak,KFU1401
+Arsitektur perangkat lunak,KFU1401,Pengembangan Perangkat Lunak untuk Agroindustri Modern,KSU1501
+Pengembangan Perangkat Lunak untuk Agroindustri Modern,KSU1501,Implementasi dan Pengujian Perangkat Lunak,KSF1506
+Pengembangan Perangkat Lunak untuk Agroindustri Modern,KSU1501,Software Testing,KFU1304
+Rekayasa Proses Bisnis,KSI1408,Requirement Engineering,KIU1046
+Rekayasa Proses Bisnis,KSI1408,Requirement Engineering,KFU1301
+Pemrograman Berorientasi Objek,KSU1208,Arsitektur perangkat lunak,KFU1401
+Arsitektur perangkat lunak,KFU1401,Pengembangan Perangkat Lunak untuk Agroindustri Modern,KSU1501
+Requirement Engineering,KIU1046,Software Quality/Manajemen Kualitas,KFU1307
+Requirement Engineering,KFU1301,Software Quality/Manajemen Kualitas,KFU1307
+Requirement Engineering,KIU1046,Software Validation,KFU1406
+Requirement Engineering,KFU1301,Software Validation,KFU1406
+Requirement Engineering,KIU1046,Software Verification,KFU1407
+Requirement Engineering,KFU1301,Software Verification,KFU1407
+Pengembangan Perangkat Lunak untuk Agroindustri Modern,KSU1501,Implementasi dan Pengujian Perangkat Lunak,KSF1506
+Implementasi dan Pengujian Perangkat Lunak,KSF1506,Software Quality/Manajemen Kualitas,KFU1307
+Implementasi dan Pengujian Perangkat Lunak,KSF1506,Software Validation,KFU1406
+Implementasi dan Pengujian Perangkat Lunak,KSF1506,Software Verification,KFU1407
