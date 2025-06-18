@@ -1,0 +1,197 @@
+kode_matkul,relevansi_karier
+KFU1101,Machine Learning Engineer
+KFU1101,AI Engineer
+KFU1101,Data Scientist
+KFU1101,Peneliti AI
+KFU1101,Pengembang Algoritma
+KFU1102,Data Scientist
+KFU1102,Information Architect
+KFU1102,Search Engineer
+KFU1102,Content Strategist
+KFU1102,Knowledge Manager
+KFU1103,Data Analyst
+KFU1103,Business Intelligence Analyst
+KFU1103,Data Visualization Specialist
+KFU1104,Data Scientist
+KFU1104,Machine Learning Engineer
+KFU1104,Data Analyst
+KFU1104,Business Intelligence Analyst
+KFU1104,Peneliti Data
+KFU1105,Computer Vision Engineer
+KFU1105,Image Processing Specialist
+KFU1105,Peneliti Computer Vision
+KFU1107,AI Engineer
+KFU1107,Knowledge Engineer
+KFU1107,Konsultan AI
+KFU1107,Pengembang Sistem Cerdas
+KFU1108,Machine Learning Engineer
+KFU1108,Data Scientist
+KFU1108,AI Engineer
+KFU1108,Peneliti Machine Learning
+KFU1108,Pengembang Algoritma
+KFU1202,AI Engineer
+KFU1202,Peneliti Optimasi
+KFU1202,Pengembang Algoritma
+KFU1202,Computational Scientist
+KFU1203,NLP Engineer
+KFU1203,Linguist Komputasi
+KFU1203,Pengembang Chatbot/Asisten Virtual
+KFU1204,Deep Learning Engineer
+KFU1204,AI Engineer
+KFU1204,Peneliti Deep Learning
+KFU1204,Computer Vision Engineer
+KFU1205,Computer Vision Engineer
+KFU1205,Peneliti Computer Vision
+KFU1205,Pengembang Robotika
+KFU1207,Machine Learning Engineer
+KFU1207,Data Scientist
+KFU1207,AI Engineer
+KFU1207,Peneliti Pengenalan Pola
+KFU1207,Computer Vision Engineer
+KFU1208,Speech Recognition Engineer
+KFU1208,Peneliti Pemrosesan Suara
+KFU1301,Business Analyst
+KFU1301,System Analyst
+KFU1301,Project Manager
+KFU1301,IT Consultant
+KFU1301,Quality Assurance Engineer
+KFU1302,Software Designer
+KFU1302,Software Engineer
+KFU1303,Sofware Developer
+KFU1303,Business Analysis
+KFU1404,Project Manager
+KFU1405,Sofware Developer
+KFU1405,Backend Engineer
+KFU1501,Systems Engineer
+KFU1501,Network Engineer
+KFU1503,Systems Engineer
+KFU1503,Cloud Engineer
+KFU1507,DevOps Engineer
+KFU1507,Cloud Engineer
+KFU1508,Digital Forensic Analyst
+KFU1508,IT Security Consultant
+KFU1510,Network Engineer
+KFU1510, IoT Engineer
+KFU1511,Network Engineer
+KFU1511,Network Architect
+KFU1512,Security Engineer
+KFU1512,Cybersecurity Analyst
+KFU1401,Software Architect
+KFU1401,Sofware Engineer
+KFU1206,Robotics Engineer
+KFU1206,AI Developer
+KFU1505,Data Scientist
+KFU1505,Research Scientist
+KFU1502,IoT Developer
+KFU1502,Mobile Application Developer
+KFU1304,Quality Assurance Engine
+KFU1304,Software Tester
+KFU1304,Test Automation Engineer
+KFU1307,Software Quality Analyst
+KFU1307,QA Manager
+KFU1307,Software Process Engineer
+KFU1406,Validation Engineer
+KFU1406,QA Tester
+KFU1407,Verification Engineer
+KFU1407,Software QA
+KIU1011,GIS Analyst
+KIU1011,Spatial Data Scientist
+KIU1011,Urban Planner
+KIU1012,GIS Developer
+KIU1012,Geospatial Database Engineer
+KIU1013,Agribusiness Manager
+KIU1013,Agro-IT Consultant
+KIU1014,Business Analyst
+KIU1014,Decision Support System Developer
+KIU1015,Remote Sensing Specialist
+KIU1015,Environmental Analyst
+KIU1016,Embedded System Engineer
+KIU1016,IoT Developer
+KIU1022,Accounting System Analyst
+KIU1022,ERP Consultant
+KIU1023, E-Commerce Specialist
+KIU1023,Digital Business Analyst
+KIU1024,Supply Chain Analyst
+KIU1024,Logistics Manager
+KIU1025,IT Policy Analyst
+KIU1025,Tech Economist
+KIU1031,Cloud Engineer
+KIU1031,Distributed Systems Developer
+KIU1041,Software Metrics Analyst
+KIU1041,Software Process Engineer
+KIU1042,IT Auditor
+KIU1042,Risk Compliance Analyst
+KIU1043,IT Service Manager
+KIU1043,IT Operations Manager
+KIU1044,Government IT Consultant
+KIU1044,Public Sector IT Developer
+KIU1045, IT Risk Analyst
+KIU1045,Cybersecurity Officer
+KIU1046,Business Analyst
+KIU1046,System Analyst
+KIU1047,UI/UX Designer
+KIU1047,Product Designer
+KIU1032,Robotic Engineer
+KIU1032,Agro-Tech Specialist
+KIU1017,IoT Specialist
+KIU1017,IoT Solutions Architect
+KTU1011,Network Engineer
+KTU1011,Network Programmer
+KTU1011,Network Automation Engineer
+KTU1012,Blockchain Developer/Engineer
+KTU1012,Smart Contract Developer
+KTU1012,Blockchain Security Engineer
+KTU1012,Core Blockchain Developer
+KTU1012,Blockchain Architect
+KTU1014,Security Engineer
+KTU1014,Information Security Analyst
+KTU1015,Digital Forensics Analyst
+KTU1015,Forensic Computer Examiner
+KTU1016,Cloud Engineer
+KTU1016,Database Administrator (DBA)
+KTU1017,Cloud Engineer
+KTU1017,Cloud Architect
+KTU1017,DevOps Engineer
+KTU1021,Software Architect
+KTU1021,System Designer
+KTU1023,Systems Analyst
+KTU1023,Product Manager
+KTU1023,Requirements Engineer
+KTU1024,Data Warehouse Developer
+KTU1025,Embedded Systems Engineer
+KTU1025,Firmware Engineer
+KTU1025,IoT Device Developer
+KTU1026,QA Engineer (Quality Assurance)
+KTU1026,QA Automation Engineer
+KTU1031,Systems Engineer
+KTU1031,Hardware Engineer
+KTU1041,Instructional Designer
+KTU1041,E-learning Developer
+KTU1041,Learning Technologist
+KTU1042,AR/VR Developer
+KTU1042,Unity/Unreal Engine Developer
+KTU1043,3D Modeler
+KTU1043,3D Generalist / 3D Artist
+KTU1044,Game Engine Programmer
+KTU1044,Graphics Programmer
+KTU1046,Game AI Programmer
+KTU1047,AI Engineer
+KTU1047,Data Scientist
+KTU1047,Computer Vision Engineer
+KTU1048,Machine Learning Engineer
+KTU1048,NLP (Natural Language Processing) Engineer
+KTU1049,Cloud Engineer
+KTU1049,Cloud Architect
+KTU1049,DevOps Engineer
+KTU1050,GIS Analyst / Specialist
+KTU1050,GIS Developer
+KTU1050,Geospatial Data Scientist
+KTU1051,GIS Analyst / Specialist
+KTU1051,GIS Developer
+KTU1051,Geospatial Data Scientist
+KTU1052,Network Engineer
+KTU1052,Wireless Network Engineer
+KTU1053,Network Security Engineer
+KTU1053,Cybersecurity Engineer
+KTU1053,Security Architect
+KTU1054,Network Administrator

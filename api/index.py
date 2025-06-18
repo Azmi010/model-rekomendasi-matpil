@@ -5,7 +5,8 @@ app = Flask(__name__)
 
 recommender_instance = Recommender(
     matkul_path='data/matkul.csv',
-    prasyarat_path='data/prasyarat.csv'
+    prasyarat_path='data/prasyarat.csv',
+    karier_path='data/karier.csv',
 )
 
 @app.route('/rekomendasi', methods=['POST'])

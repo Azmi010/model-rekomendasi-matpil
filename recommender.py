@@ -1,11 +1,12 @@
 import pandas as pd
-from rdflib import Graph, Literal, RDF, URIRef, Namespace
+from rdflib import Graph, Literal, RDF, RDFS, URIRef, Namespace
 from rdflib.namespace import FOAF, XSD
 from datetime import datetime
 from itertools import combinations
 
 STUDENT_NS = Namespace("http://example.org/mahasiswa/")
 COURSE_NS = Namespace("http://example.org/matakuliah/")
+KARIER_NS = Namespace("http://example.org/karier/")
 SCHEMA_NS = Namespace("http://schema.org/")
 
 memiliki_sks = SCHEMA_NS.numberOfCredits
@@ -20,15 +21,17 @@ memiliki_prasyarat = COURSE_NS.memilikiPrasyarat
 belajar_di_semester_mhs = STUDENT_NS.belajarDiSemesterMHS
 memiliki_sifat_mk = COURSE_NS.memilikiSifatMK
 semester_penawaran_mk = COURSE_NS.semesterPenawaran
+mendukung_karier = KARIER_NS.mendukungKarier
 NILAI_LULUS = {'A', 'AB', 'B', 'BC', 'C'}
 
 class Recommender:
-    def __init__(self, matkul_path, prasyarat_path):
+    def __init__(self, matkul_path, prasyarat_path, karier_path):
         print("Menginisialisasi Recommender...")
         self.df_matkul = self._muat_dan_bersihkan_data(matkul_path)
         df_prasyarat = self._muat_dan_bersihkan_data(prasyarat_path)
+        df_karier = self._muat_dan_bersihkan_data(karier_path)
         
-        self.g_dasar = self._bangun_kg_dasar(df_prasyarat)
+        self.g_dasar = self._bangun_kg_dasar(df_prasyarat, df_karier)
         self.uri_ke_kode_map = {self._uri_matakuliah(row['kode_matkul']): row['kode_matkul'] for _, row in self.df_matkul.iterrows()}
         print("Recommender siap digunakan.")
 
@@ -46,7 +49,7 @@ class Recommender:
             df[col] = df[col].str.strip()
         return df
 
-    def _bangun_kg_dasar(self, df_prasyarat):
+    def _bangun_kg_dasar(self, df_prasyarat, df_karier):
         print("Membangun Knowledge Graph dasar...")
         g = Graph()
         for _, baris in self.df_matkul.iterrows():
@@ -67,6 +70,15 @@ class Recommender:
                 mk_prasyarat_uri = self._uri_matakuliah(baris['kode_matkul'])
                 if (mk_utama_uri, RDF.type, COURSE_NS.MataKuliah) in g and (mk_prasyarat_uri, RDF.type, COURSE_NS.MataKuliah) in g:
                     g.add((mk_utama_uri, memiliki_prasyarat, mk_prasyarat_uri))
+        
+        for _, baris in df_karier.iterrows():
+            mk_uri = self._uri_matakuliah(baris['kode_matkul'])
+            if (mk_uri, RDF.type, COURSE_NS.MataKuliah) in g:
+                karier_str = baris['relevansi_karier']
+                karier_uri = KARIER_NS[karier_str.replace(" ", "_")]
+                g.add((mk_uri, mendukung_karier, karier_uri))
+                g.add((karier_uri, RDF.type, KARIER_NS.RelevansiKareir))
+                g.add((karier_uri, RDFS.label, Literal(karier_str)))
         
         print(f"KG Dasar selesai dibangun dengan {len(g)} triples.")
         return g
@@ -152,9 +164,15 @@ class Recommender:
             if mk_info['prasyarat_terpenuhi']:
                 list_prasyarat = [f"{self.df_matkul[self.df_matkul['kode_matkul'] == k]['nama_matkul'].iloc[0]} (Nilai: {v})" for k, v in mk_info['prasyarat_terpenuhi'].items()]
                 penjelasan = f"Direkomendasikan karena Anda berprestasi baik pada mata kuliah prasyarat: {', '.join(list_prasyarat)}."
+            list_karier = []
+            for _, _, karier_uri in self.g_dasar.triples((self._uri_matakuliah(mk_info['kode']), mendukung_karier, None)):
+                nama_karier = self.g_dasar.value(subject=karier_uri, predicate=RDFS.label)
+                if nama_karier:
+                    list_karier.append(str(nama_karier))
             hasil_final.append({
                 "kode_mk": mk_info['kode'], "nama_mk": mk_info['nama'], "sks": int(mk_info['sks']),
-                "prodi_penawar": mk_info['prodi'], "skor": round(mk_info['skor'], 2), "alasan": penjelasan
+                "prodi_penawar": mk_info['prodi'], "skor": round(mk_info['skor'], 2), "alasan": penjelasan,
+                "relevansi_karier": list_karier
             })
             
         return {"total_sks_rekomendasi": int(sks_saat_ini), "rekomendasi": hasil_final}
